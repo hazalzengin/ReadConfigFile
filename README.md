@@ -1,5 +1,6 @@
 ### Documentation is included in the Documentation folder ###
 
+![image](https://github.com/hazalzengin/ReadConfigFile/assets/141309108/828a9efb-9549-4916-8a4f-6d1da0dafd37)
 
 ### REFrameWork Template ###
 **Robotic Enterprise Framework**
